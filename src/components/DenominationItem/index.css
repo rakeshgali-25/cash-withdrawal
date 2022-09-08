@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.button {
+  border-width: 2px;
+  height: 70px;
+  background-color: #585076;
+  border-radius: 10px;
+  width: 180px;
+  color: #c4c4c4;
+  font-family: Roboto;
+  font-size: 30px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+li {
+  display: inline;
+  flex-direction: row;
+}
